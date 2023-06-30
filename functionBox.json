@@ -1,0 +1,311 @@
+{
+  "code": 200,
+  "msg" : "成功",
+  "description": "存放所有的功能",
+  "todo": "home.vue使用",
+  "data": [
+    {
+      "text": "天地图",
+      "intro": "vue中引入天地图",
+      "goRouter": "/useTdMap",
+      "consult": [
+        {
+          "name": "天地图API",
+          "link": "http://lbs.tianditu.gov.cn/api/js4.0/class.html"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "ECharts地图",
+      "intro": "ECharts地图（祺云船舶项目地图以及天瓴叉车大屏地图）",
+      "goRouter": "/EChartsMap",
+      "consult": [
+        {
+          "name": "echarts",
+          "link": "https://echarts.apache.org/zh/index.html"
+        },{
+          "name": "ppchart",
+          "link": "http://www.ppchart.com/#/"
+        },{
+          "name": "mcChart",
+          "link": "http://echarts.zhangmuchen.top/#/index"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "百度地图",
+      "intro": "Vue中引入百度地图",
+      "goRouter": "/baiDuMap",
+      "consult": [
+        {
+          "name": "百度地图开放平台",
+          "link": "https://lbsyun.baidu.com/index.php?title=jspopularGL"
+        },{
+          "name": "示例中心",
+          "link": "https://lbsyun.baidu.com/jsdemo.htm#aCreateMap"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "leaflet地图",
+      "intro": "Vue中引入leaflet地图",
+      "goRouter": "/leaflet",
+      "consult": [
+        {
+          "name": "leafletJs",
+          "link": "https://leafletjs.cn/"
+        },{
+          "name": "leafletJs文档",
+          "link": "https://leafletjs.cn/reference.html"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "VueBaiduMap",
+      "intro": "Vue中使用VueBaiduMap",
+      "goRouter": "/vueBaiduMap",
+      "consult": [
+       {
+          "name": "Vue BaiDu Map",
+          "link": "https://dafrok.github.io/vue-baidu-map/#/zh/index"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "VueBaiduMap绘制折线以及轨迹回放",
+      "intro": "Vue中使用VueBaiduMap绘制折线以及轨迹回放",
+      "goRouter": "/vueBaiduMapDoST",
+      "consult": [
+        {
+          "name": "Vue BaiDu Map",
+          "link": "https://dafrok.github.io/vue-baidu-map/#/zh/index"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "富文本",
+      "intro": "Vue使用富文本编辑器wangEditor",
+      "goRouter": "/richText",
+      "consult": [
+        {
+          "name": "wangeditor",
+          "link": "https://www.wangeditor.com/"
+        },
+        {
+          "name": "知乎参考文档",
+          "link": "https://zhuanlan.zhihu.com/p/43416702?ivk_sa=1024320u"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "el-tree使用",
+      "intro": "el-tree单选且实现数据回显(弹窗可拖拽)",
+      "goRouter": "/elTreeUse",
+      "consult": [
+        {
+          "name": "elementUI",
+          "link": "https://element.eleme.cn/#/zh-CN/component/tree#scoped-slot"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "天地图实现打点的公共弹窗",
+      "intro": "弹窗实现打点与回显",
+      "goRouter": "/tdMapMakePoint",
+      "consult": [
+        {
+          "name": "天地图API",
+          "link": "http://lbs.tianditu.gov.cn/api/js4.0/class.html"
+        },
+        {
+          "name": "GeoJSON",
+          "link": "http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=30.332329214580188&lng=106.72278672066881&zoom=3.5"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "leaflet实现地图打点与回显",
+      "intro": "leaflet地图弹窗实现打点与回显",
+      "goRouter": "/leafletMapMakePoint",
+      "consult": [
+        {
+          "name": "leafletjs",
+          "link": "https://leafletjs.cn/"
+        },
+        {
+          "name": "百度地图",
+          "link": "https://lbsyun.baidu.com/"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "Video播放Mp4视频",
+      "intro": "vue实现Video播放Mp4视频",
+      "goRouter": "/videoPlayMp4",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "对接在线flv视频流",
+      "intro": "vue播放在线flv视频",
+      "goRouter": "/flvComp",
+      "consult": [
+        {
+          "name": "flv",
+          "link": "https://www.npmjs.com/package/flv.js"
+        },
+        {
+          "name": "vue播放flv视频流",
+          "link": "https://blog.csdn.net/changyana/article/details/126310253"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "文件上传的预览功能",
+      "intro": "vue文件上传实现点击预览上传的文件",
+      "goRouter": "/uploadFileShow",
+      "consult": [],
+      "pic": "editPic"
+    },
+    {
+      "text": "将网页内容导出成图片",
+      "intro": "利用html2canvas将网页内容导出成jpg(导出的图片宽度是浏览器的宽度决定的)可以导出自定义的内容，可以导出本地图片和网络图片",
+      "goRouter": "/exportToJpg",
+      "consult": [
+        {
+          "name": "html2canvas",
+          "link": "http://html2canvas.hertzen.com/"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "将网页内容导出成pdf",
+      "intro": "利用html2canvas和jsPDF将网页内容导出成pdf",
+      "goRouter": "/exportToPdf",
+      "consult": [
+        {
+          "name": "html2canvas",
+          "link": "http://html2canvas.hertzen.com/"
+        },
+        {
+          "name": "jsPDF",
+          "link": "http://www.rotisedapsales.com/snr/cloud2/website/jsPDF-master/docs/jsPDF.html"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "天气Api接口的使用",
+      "intro": "使用第三方天气Api接口",
+      "goRouter": "/weatherApi",
+      "consult": [
+        {
+          "name": "天气API",
+          "link": "https://www.tianqiapi.com/index/doc?version=town"
+        },
+        {
+          "name": "高德地图天气",
+          "link": "https://lbs.amap.com/api/webservice/guide/api/weatherinfo"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "前端实现分页效果",
+      "intro": "前端实现分页效果",
+      "goRouter": "/tablePaging",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "Vue实现自定义右键菜单",
+      "intro": "Vue实现自定义右键菜单",
+      "goRouter": "/vueRightMenu",
+      "consult": [
+        {
+          "name": "@kiyoaki_w/vue-contex",
+          "link": "https://www.npmjs.com/package/@kiyoaki_w/vue-context"
+        },{
+          "name": "使用vue-context自定义vue右键菜单",
+          "link": "https://blog.csdn.net/bubbleliar/article/details/96450051"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "crypto前端加密",
+      "intro": "cryptoJs实现前端加密",
+      "goRouter": "/crypto",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "获取本地摄像头h5",
+      "intro": "获取本地摄像头h5写法",
+      "goRouter": "/cameraUse",
+      "consult": [
+        {
+          "name": "html5-qrcode",
+          "link": "https://www.npmjs.com/package/html5-qrcode"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "可拖拽表单",
+      "intro": "vue实现可拖拽表单效果",
+      "goRouter": "/formDrag",
+      "consult": [
+        {
+          "name": "form-generator",
+          "link": "https://mrhj.gitee.io/form-generator/#/"
+        },
+        {
+          "name": "vForm",
+          "link": "https://www.vform666.com/"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "生成二维码",
+      "intro": "二维码生成工具",
+      "goRouter": "/qrCode",
+      "consult": [
+        {
+          "name": "qrcodejs2",
+          "link": "https://www.npmjs.com/package/qrcodejs2"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "文件上传组件的封装",
+      "intro": "封装el-dialog文件上传组件",
+      "goRouter": "/uploadComp",
+      "consult": [
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "el-table和el-tag的使用",
+      "intro": "左侧是表格右边是tag实现联动",
+      "goRouter": "/tableAndTag",
+      "consult": [
+      ],
+      "pic": "donePic"
+    }
+  ]
+}
