@@ -62,7 +62,7 @@
           "link": "https://leafletjs.cn/reference.html"
         }
       ],
-      "pic": "editPic"
+      "pic": "donePic"
     },
     {
       "text": "VueBaiduMap",
@@ -304,6 +304,109 @@
       "intro": "左侧是表格右边是tag实现联动",
       "goRouter": "/tableAndTag",
       "consult": [
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "monaco-editor",
+      "intro": "类似vscode的网页编辑器",
+      "goRouter": "/monacoEditor",
+      "consult": [
+        {
+          "name": "monacoEditor下载",
+          "link": "https://www.npmjs.com/package/monaco-editor?activeTab=code"
+        },
+        {
+          "name": "官网",
+          "link": "https://microsoft.github.io/monaco-editor"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "前端动画",
+      "intro": "动画使用",
+      "goRouter": "/transitionUse",
+      "consult": [
+        {
+          "name": "animate",
+          "link": "https://www.dowebok.com/demo/2014/98/"
+        },
+        {
+          "name": "css",
+          "link": "https://www.magicpattern.design/tools"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "炫酷的ECharts地图框选",
+      "intro": "ECharts地图",
+      "goRouter": "/EChartsMapKu",
+      "consult": [
+        {
+          "name": "ECharts社区",
+          "link": "https://www.makeapie.cn/echarts_content/xr12U9BJcf.html"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "cesiumJs使用",
+      "intro": "结合cesium实现添加模型",
+      "goRouter": "/cesiumUse",
+      "consult": [
+        {
+          "name": "cesium中文网",
+          "link": "http://cesium.xin/cesium/cn/Documentation1.62/index.html"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "cesiumJs使用2",
+      "intro": "在模型上添加点位并且添加点击事件",
+      "goRouter": "/cesiumUseTwo",
+      "consult": [
+        {
+          "name": "cesium中文网",
+          "link": "http://cesium.xin/cesium/cn/Documentation1.62/index.html"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "鼠标移入图片播放视频的组件",
+      "intro": "鼠标移入图片播放视频移出则显示图片",
+      "goRouter": "/imgOrVideoUse",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "浏览器中查看word",
+      "intro": "浏览器中查看word,详情查看 vue-doc-preview项目（本地）",
+      "goRouter": "/openWord",
+      "consult": [
+        {
+          "name": "vue-doc-preview",
+          "link": "https://www.npmjs.com/package/vue-doc-preview"
+        },
+        {
+          "name": "vue-doc-preview in github",
+          "link": "https://github.com/cainsyake/vue-doc-preview"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "vue-wangeditor",
+      "intro": "vue2中使用wangeditor",
+      "goRouter": "/vueWangEditor",
+      "consult": [
+        {
+          "name": "vue-wangeditor",
+          "link": "https://www.npmjs.com/package/vue-wangeditor?activeTab=readme"
+        }
       ],
       "pic": "donePic"
     }
