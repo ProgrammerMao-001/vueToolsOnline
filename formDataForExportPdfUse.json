@@ -1,0 +1,424 @@
+{
+  "code" : "200",
+  "msg" : "成功.",
+  "data" : {
+    "id" : "bc24b38f9ca54aaa8ada36a310b10a72",
+    "applyId" : null,
+    "applying" : false,
+    "type" : "高处安全作业票",
+    "taskUnit" : "浮选修理班",
+    "applyStaffId" : "f9b9842d14604ff8bf2ca40205da39c3",
+    "applyStaffName" : "宋川",
+    "workOrder" : "XTXK000739",
+    "taskStartTime" : "2022-09-22 12:30:00",
+    "taskEndTime" : "2022-09-22 15:10:00",
+    "approvalFlowExampleId" : "e4c6a4ff513f44e2830aa125bc283f44",
+    "finishFlag" : true,
+    "finishTime" : "2022-09-22 15:51:07",
+    "status" : "完成",
+    "editFlag" : false,
+    "topDeptId" : "39b1d8785a051298cecbe87822230c0b",
+    "topDeptName" : "新田选矿车间",
+    "safetyMeasureAnnex" : "",
+    "safetyMeasureAnnexData" : [
+      {
+        "id" : "666a3d82ff41d29be5ed9dcdfcff8cde",
+        "name" : "D`8[57TWD@VV7EC(}`]JC`C.png",
+        "path" : "https://fuss10.elemecdn.com/8/27/f01c15bb73e1ef3793e64e6b7bbccjpeg.jpeg",
+        "md5" : "a88d9fc7769162e40eba36f8a946b767",
+        "sort" : 10
+      },
+      {
+        "id" : "666a3d82ff41d29be5ed9dcdfcff8cd1",
+        "name" : "D`8.png",
+        "path" : "https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+        "md5" : "a88d9fc7769162e40eba36f8a946b767",
+        "sort" : 10
+      }
+    ],
+    "safetyMeasureRecord" : [ {
+      "id" : "8ddd37e3631f2c5b963d0064c6d0ee7d",
+      "safetyMeasureId" : "153aff9944564a2985528d96ce3aa93a",
+      "content" : "严格执行高空作业“十不准”（1、不准违章作业；2、无安全防护措施不准作业3、未正确使用劳动保护用品不准作业；4、酒后、带病不准作业；5、照明不足不准作业；6、不准穿硬底鞋作业；7、不准交叉作业；8、不准嬉戏打闹；9、不准从高处向下抛物；10、不准随意拆卸安全防护用品及器具）",
+      "passFlag" : true,
+      "annex" : "bbe06dc08f3e65d14b7111f2da968664",
+      "annexData" : [ {
+        "id" : "bbe06dc08f3e65d14b7111f2da968664",
+        "name" : "1663820141951.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/93b3686b-e0ae-444e-af16-d541dfece458.jpg",
+        "md5" : "1dcf3a214f590cbca9c0e6f69cfe7c97",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "ce8abcda2fe3be100ba1ff89e5f85c94",
+      "safetyMeasureId" : "f1dac7cd7d3a433c85bd85c8dc6de0a3",
+      "content" : "禁止在夜间从事高空作业。",
+      "passFlag" : true,
+      "annex" : "6d1dd35e706d5044617dc27a027c2c47",
+      "annexData" : [ {
+        "id" : "6d1dd35e706d5044617dc27a027c2c47",
+        "name" : "1663820129914.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/cbb5ea42-b417-4da5-8bb5-36fe5ad732da.jpg",
+        "md5" : "1850abaa6452d73c540202ae69fe4ca2",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "e5a907d0b7b2bb5aa9c7c336821363a3",
+      "safetyMeasureId" : "02b8652cfe1148fabc1300929a3f7b0b",
+      "content" : "高空作业时，必须设置地面监护人监控，监护人员必须全程监护，并设置警戒线及警示标识，防止掉物伤人，垂直分层作业中间有隔离设施。",
+      "passFlag" : true,
+      "annex" : "a75175c99e4dbd6e1cac0c3dd7649671",
+      "annexData" : [ {
+        "id" : "a75175c99e4dbd6e1cac0c3dd7649671",
+        "name" : "1663820120808.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/da5ca263-4cf9-4d9a-b2e9-a1e869cf247b.jpg",
+        "md5" : "aaef6eff5f64d997e38a0ddb66da0c5b",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "b57fb6e2fbfd49c19ac16ba68ef59a77",
+      "safetyMeasureId" : "201d97a7f53540d6bbfcfe60f6296288",
+      "content" : "需要在高空移动作业时，必须系挂双钩安全带，始终保持至少有一个挂钩挂住。",
+      "passFlag" : true,
+      "annex" : "e0309ea645395b2746571dbccaee4c94",
+      "annexData" : [ {
+        "id" : "e0309ea645395b2746571dbccaee4c94",
+        "name" : "1663820113031.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/cadeefd9-5ad4-4497-a46b-7b15dab819d9.jpg",
+        "md5" : "8e43cb3a6734eebc917a6f6633b3d9cc",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "d413afa9abadc4d1b4eefe6425b9454f",
+      "safetyMeasureId" : "9a04b380db3f41eea245fde59b210684",
+      "content" : "作业场所有坠落可能的物件，应一律先行撤除或加以固定。高空作业所使用的工具、材料、零件等应装入工具袋，上下时手中不得持物。工具在使用时应系安全绳，不用时放入工具袋中。不得投掷工具、材料及其他物品。易滑动、易滚动的工具、材料堆放在高空操作台时，应采取防止坠落措施。拆卸下的物件及余料和废料均应及时清理运走，不得任意乱置或向下丢弃。",
+      "passFlag" : true,
+      "annex" : "6a53082cd5f327be34928d577a809445",
+      "annexData" : [ {
+        "id" : "6a53082cd5f327be34928d577a809445",
+        "name" : "1663820103969.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/7377e928-7191-4549-a6ee-f4d53fdcd574.jpg",
+        "md5" : "be728eb5eaf54347ef5261fdb26084d6",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "43cb6ac6a8d86bcc65ef919b61e3218a",
+      "safetyMeasureId" : "e8405a66f17141a6bc1c32d910f2c499",
+      "content" : "作业中应正确使用防坠落用品与登高器具、设备。高空作业人员应系用与作业内容相适应的安全带，安全带遵循高挂低用原则（不具备条件的要采取防范措施）。系安全带后应检查扣环是否扣牢。",
+      "passFlag" : true,
+      "annex" : "bd908db7113cab814d39d545c71261b3",
+      "annexData" : [ {
+        "id" : "bd908db7113cab814d39d545c71261b3",
+        "name" : "1663820087950.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/94644378-0319-4847-84fd-5e8529927d19.jpg",
+        "md5" : "12445b227a0ac4f5a7cc4da63a732f3d",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "1d16fb53c948efe36fd5c5e17a9cedf2",
+      "safetyMeasureId" : "f6bded8e9a8945c89c29f9e221e7834f",
+      "content" : "高空检修作业中的工具、仪表、电气设施和各种设备，应在作业前加以检查，确认其完好后方可投入使用。",
+      "passFlag" : true,
+      "annex" : "cfdff8adc3137356295abbe12e42a42a",
+      "annexData" : [ {
+        "id" : "cfdff8adc3137356295abbe12e42a42a",
+        "name" : "1663820079134.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/efbe9b7e-168a-4a67-93a2-be4db7570992.jpg",
+        "md5" : "35badeb4c247923c3ade933de2511a43",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "ca0e2640cc2da956874b439f61bbf5f0",
+      "safetyMeasureId" : "ed33ced5b27143918f25a8cd0e499824",
+      "content" : "高空作业人员应按照规定穿戴符合国家标准的劳动保护用品，安全带、安全帽符合要求，作业前要进行检查。",
+      "passFlag" : true,
+      "annex" : "67e5890da1a70c34893638a0bfcdec62",
+      "annexData" : [ {
+        "id" : "67e5890da1a70c34893638a0bfcdec62",
+        "name" : "1663820062853_1663820018871.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/3a3ff0f8-3ffc-4eb9-b81f-2137004da35d.jpg",
+        "md5" : "89408a2ae08a0821de6ca383e45c60a4",
+        "sort" : 10
+      } ]
+    }, {
+      "id" : "60e09131e0ee9691c14c4003b3545f43",
+      "safetyMeasureId" : "8027eb31bef845cfba8ab061d26ec29d",
+      "content" : "高空作业前，班组安全负责人应对高空作业人员进行必要的安全教育，交代现场环境和作业安全要求以及作业中可能遇到意外时的处理和救护方法。",
+      "passFlag" : true,
+      "annex" : "088dd984261e4bfb8361194f8bd812ae",
+      "annexData" : [ {
+        "id" : "088dd984261e4bfb8361194f8bd812ae",
+        "name" : "1663820018871.jpg",
+        "path" : "/4affa18a26e74856a282e174c6db12b0/2022-09-22/e48184dd-c200-4b41-83ab-8bcab474630f.jpg",
+        "md5" : "848f82bde41893d8f13f9566b85c0064",
+        "sort" : 10
+      } ]
+    } ],
+    "controlsRecord" : [ {
+      "id" : "c58a12210957c4812deef323db2f8c60",
+      "controlsId" : "workTicket-location",
+      "controlsType" : "Location",
+      "title" : "作业地点",
+      "value" : {
+        "info" : "文山壮族苗族自治州马关县姚火头弯东北约681米",
+        "latitude" : 22.91823,
+        "longitude" : 104.5354,
+        "video" : [ {
+          "videoName" : "锡石浮选尾矿旋流器(新田选矿车间)",
+          "videoId" : "37dfc0db6b0d420eb19227ed34cfdbd5"
+        }, {
+          "videoName" : "锡石浮选浓缩箱2(新田选矿车间)",
+          "videoId" : "3fe82145c40a443aabac03be436275db"
+        }, {
+          "videoName" : "1377三楼2(新田选矿车间)",
+          "videoId" : "3ca812d8d2ab4161bfbbb79cf34ac65f",
+          "nearby" : true
+        }, {
+          "videoName" : "锡石浮选浓缩箱2(新田选矿车间)",
+          "videoId" : "3fe82145c40a443aabac03be436275db",
+          "nearby" : true
+        }, {
+          "videoName" : "1377一楼2(新田选矿车间)",
+          "videoId" : "0fe380738cf546fdb4cb61c7c3bf6fed",
+          "nearby" : true
+        }, {
+          "videoName" : "锡石浮选尾矿旋流器(新田选矿车间)",
+          "videoId" : "37dfc0db6b0d420eb19227ed34cfdbd5",
+          "nearby" : true
+        }, {
+          "videoName" : "1377二楼1(新田选矿车间)",
+          "videoId" : "f7723fd19a3148e99c0aae312e5e1722",
+          "nearby" : true
+        }, {
+          "videoName" : "1377三楼1(新田选矿车间)",
+          "videoId" : "e952f742eeee4681b2524c250c80108a",
+          "nearby" : true
+        }, {
+          "videoName" : "风机房(新田选矿车间)",
+          "videoId" : "9612ad19d6d44bae8342515fd02e015d",
+          "nearby" : true
+        }, {
+          "videoName" : "-37区域(新田选矿车间)",
+          "videoId" : "a134573539ad4d48a6e8ec590d8d2d40",
+          "nearby" : true
+        } ]
+      }
+    }, {
+      "id" : "f773ffa1aaaf01c168159564f4980c4c",
+      "controlsId" : "workTicket-workContent",
+      "controlsType" : "Text",
+      "title" : "作业内容",
+      "value" : "加固次精矿硫粗远2的刮板减速机底座"
+    }, {
+      "id" : "65ea26ef00397b750d2c7d6a2ab3c815",
+      "controlsId" : "workTicket-height",
+      "controlsType" : "Input",
+      "title" : "作业高度",
+      "value" : "4"
+    }, {
+      "id" : "5680a826666612adcfa6a1fadc647625",
+      "controlsId" : "workTicket-workLevel",
+      "controlsType" : "Radio",
+      "title" : "作业级别",
+      "value" : "一级高处作业"
+    }, {
+      "id" : "c8fa562d50c2614ded29db946e7f864a",
+      "controlsId" : "workTicket-principal",
+      "controlsType" : "ContactPerson",
+      "title" : "作业负责人",
+      "value" : [ {
+        "id" : "f9b9842d14604ff8bf2ca40205da39c3",
+        "name" : "宋川"
+      } ]
+    }, {
+      "id" : "6de781e346ca26ee769c2a95259220a3",
+      "controlsId" : "workTicket-guardian",
+      "controlsType" : "ContactPerson",
+      "title" : "监护人",
+      "value" : [ {
+        "id" : "de3268209ca94165800f7bd85df0030f",
+        "name" : "刘朝凯"
+      } ]
+    }, {
+      "id" : "c990f4e5de7b1a9f9acff8d339a24ca5",
+      "controlsId" : "workTicket-staff",
+      "controlsType" : "ContactPersonMore",
+      "title" : "作业人员",
+      "value" : [ {
+        "id" : "f9b9842d14604ff8bf2ca40205da39c3",
+        "name" : "宋川"
+      } ]
+    }, {
+      "id" : "2e31d85036f02fdd3799b40eeddee729",
+      "controlsId" : "workTicket-externalStaff",
+      "controlsType" : "Text",
+      "title" : "外部作业人员",
+      "value" : "无"
+    }, {
+      "id" : "9b03a73a269f0d98a343649412dec660",
+      "controlsId" : "otherInvolveDangerTask",
+      "controlsType" : "Input",
+      "title" : "涉及的其他危险作业",
+      "value" : "无"
+    }, {
+      "id" : "186548d78dad88fc7f3689b7c82f6fbb",
+      "controlsId" : "workTicket-riskIdentify",
+      "controlsType" : "ChoiceText",
+      "title" : "风险辨识",
+      "value" : {
+        "text" : "其他伤害",
+        "choice" : [ {
+          "label" : "物体打击",
+          "value" : "物体打击"
+        }, {
+          "label" : "高处坠落",
+          "value" : "高处坠落"
+        } ]
+      }
+    }, {
+      "id" : "84acf345c9fbfd7c6fc884b50723fe02",
+      "controlsId" : "workTicket-otherSafeStep",
+      "controlsType" : "Text",
+      "title" : "其他安全措施",
+      "value" : "高处作业系好安全带作业，双挂钩高挂低用。"
+    }, {
+      "id" : "f3d920b19520bf9d2035ee199768108b",
+      "controlsId" : "workTicket-editorSign",
+      "controlsType" : "Sign",
+      "title" : "编制人签名",
+      "value" : "95ec31a5ab8144a899fccc5b549a1624"
+    } ],
+    "processLog" : [ {
+      "id" : "ca3b7e8c25b2ccb0c25a5df05aa806f2",
+      "flowExampleId" : "e4c6a4ff513f44e2830aa125bc283f44",
+      "operation" : "f9b9842d14604ff8bf2ca40205da39c3",
+      "operationName" : "宋川",
+      "beforeFlowNode" : "0",
+      "beforeFlowNodeName" : "发起",
+      "afterFlowNode" : "442431b4f3074d493aa88e96d26997bb",
+      "afterFlowNodeName" : "负责人意见",
+      "startTime" : "2022-09-22 12:19:35",
+      "endTime" : "2022-09-22 12:19:35",
+      "withdraw" : false,
+      "memberList" : [ {
+        "type" : "staff",
+        "objId" : "f9b9842d14604ff8bf2ca40205da39c3",
+        "objName" : "宋川"
+      } ],
+      "actionList" : [ ]
+    }, {
+      "id" : "67e17b8a714d266542a2cbed44bf4e88",
+      "flowExampleId" : "e4c6a4ff513f44e2830aa125bc283f44",
+      "operation" : "f9b9842d14604ff8bf2ca40205da39c3",
+      "operationName" : "宋川",
+      "beforeFlowNode" : "442431b4f3074d493aa88e96d26997bb",
+      "beforeFlowNodeName" : "负责人意见",
+      "afterFlowNode" : "75e311afb197854de6bb57a95799aa28",
+      "afterFlowNodeName" : "审核人意见",
+      "startTime" : "2022-09-22 12:19:35",
+      "endTime" : "2022-09-22 12:20:52",
+      "withdraw" : false,
+      "memberList" : [ {
+        "type" : "staff",
+        "objId" : "2dfe17be05d142f2b096f8c091d33b3d",
+        "objName" : "陆昌明"
+      } ],
+      "actionList" : [ {
+        "id" : "376aa965af6f04a3afae1c1675a7792b",
+        "operation" : "f9b9842d14604ff8bf2ca40205da39c3",
+        "operationName" : "宋川",
+        "actionType" : "approve",
+        "actionTypeLabel" : "审批",
+        "content" : "已现场确认上述安全措施，符合作业条件。",
+        "images" : "0eb1855ad526b5ba7a2be146b79a6c61",
+        "signature" : "95ec31a5ab8144a899fccc5b549a1624",
+        "finish" : true,
+        "updateTime" : "2022-09-22 12:20:52"
+      } ]
+    }, {
+      "id" : "a38f447e2cc3e6a522315fd04417861c",
+      "flowExampleId" : "e4c6a4ff513f44e2830aa125bc283f44",
+      "operation" : "2dfe17be05d142f2b096f8c091d33b3d",
+      "operationName" : "陆昌明",
+      "beforeFlowNode" : "75e311afb197854de6bb57a95799aa28",
+      "beforeFlowNodeName" : "审核人意见",
+      "afterFlowNode" : "7176317039c9a04cb74857d9aedea656",
+      "afterFlowNodeName" : "审批人意见",
+      "startTime" : "2022-09-22 12:20:52",
+      "endTime" : "2022-09-22 12:22:07",
+      "withdraw" : false,
+      "memberList" : [ {
+        "type" : "staff",
+        "objId" : "3fe3cb35d9f64bd898bfd6720c51e53b",
+        "objName" : "何云梅"
+      } ],
+      "actionList" : [ {
+        "id" : "b4acf9a05ae8bd17488c8c82c4717705",
+        "operation" : "2dfe17be05d142f2b096f8c091d33b3d",
+        "operationName" : "陆昌明",
+        "actionType" : "approve",
+        "actionTypeLabel" : "审批",
+        "content" : "已按照上述安全措施进行作业准备，可以作业",
+        "images" : "",
+        "signature" : "0cf766b7849e49d987082064d40fc371",
+        "finish" : true,
+        "updateTime" : "2022-09-22 12:22:07"
+      } ]
+    }, {
+      "id" : "036a3760fc846a4fec64cde1521e3cf1",
+      "flowExampleId" : "e4c6a4ff513f44e2830aa125bc283f44",
+      "operation" : "3fe3cb35d9f64bd898bfd6720c51e53b",
+      "operationName" : "何云梅",
+      "beforeFlowNode" : "7176317039c9a04cb74857d9aedea656",
+      "beforeFlowNodeName" : "审批人意见",
+      "afterFlowNode" : "e4cff47b73f3944fe22a7947b7255998",
+      "afterFlowNodeName" : "验收评估",
+      "startTime" : "2022-09-22 12:22:07",
+      "endTime" : "2022-09-22 12:41:08",
+      "withdraw" : false,
+      "memberList" : [ {
+        "type" : "staff",
+        "objId" : "f9b9842d14604ff8bf2ca40205da39c3",
+        "objName" : "宋川"
+      } ],
+      "actionList" : [ {
+        "id" : "6032b22184b8059f5613aa89f8a7a019",
+        "operation" : "3fe3cb35d9f64bd898bfd6720c51e53b",
+        "operationName" : "何云梅",
+        "actionType" : "approve",
+        "actionTypeLabel" : "审批",
+        "content" : "同意作业",
+        "images" : "",
+        "signature" : "dcfad45b9ee04d22b318f33b2ce226ab",
+        "finish" : true,
+        "updateTime" : "2022-09-22 12:41:08"
+      } ]
+    }, {
+      "id" : "c82dba5eaa466ca1cf89ab7ce41d4ca6",
+      "flowExampleId" : "e4c6a4ff513f44e2830aa125bc283f44",
+      "operation" : "f9b9842d14604ff8bf2ca40205da39c3",
+      "operationName" : "宋川",
+      "beforeFlowNode" : "e4cff47b73f3944fe22a7947b7255998",
+      "beforeFlowNodeName" : "验收评估",
+      "afterFlowNode" : "end",
+      "afterFlowNodeName" : "结束",
+      "startTime" : "2022-09-22 12:41:08",
+      "endTime" : "2022-09-22 15:51:07",
+      "withdraw" : false,
+      "memberList" : [ ],
+      "actionList" : [ {
+        "id" : "5fe1caaf1422b09419555b05b096fa48",
+        "operation" : "f9b9842d14604ff8bf2ca40205da39c3",
+        "operationName" : "宋川",
+        "actionType" : "approve",
+        "actionTypeLabel" : "审批",
+        "content" : "已严格按照安全措施开展，现场清检完成。",
+        "images" : "",
+        "signature" : "95ec31a5ab8144a899fccc5b549a1624",
+        "finish" : true,
+        "updateTime" : "2022-09-22 15:51:07"
+      } ]
+    } ]
+  },
+  "success" : true
+}

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuetools"]=self["webpackChunkvuetools"]||[]).push([[211],{9211:function(e,t,n){n.r(t),n.d(t,{default:function(){return d}});var o=function(){var e=this,t=e._self._c;return t("div",[e._v("docx-preview https://www.npmjs.com/package/docx-preview")])},r=[],u={name:"openWord",components:{},props:{},data(){return{}},methods:{},created(){},mounted(){}},s=u,c=n(3736),p=(0,c.Z)(s,o,r,!1,null,"73ddbef6",null),d=p.exports}}]);
+//# sourceMappingURL=211.be412e57.js.map
