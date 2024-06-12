@@ -409,6 +409,74 @@
         }
       ],
       "pic": "donePic"
+    },
+    {
+      "text": "百度GL地图的选点画线操作",
+      "intro": "vue2中使用原生百度地图进行选点画线的操作",
+      "goRouter": "/bdGlMap",
+      "consult": [
+        {
+          "name": "百度地图demo",
+          "link": "https://lbsyun.baidu.com/jsdemo.htm#eChangeMarkerIcon"
+        },
+        {
+          "name": "vue-bmap-gl",
+          "link": "https://vue-bmap-gl.guyixi.cn/"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "egjs轮播图",
+      "intro": "模仿淘宝的轮播图效果",
+      "goRouter": "/flicking",
+      "consult": [
+        {
+          "name": "egjs-flicking",
+          "link": "https://naver.github.io/egjs-flicking/docs"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "播放m3u8直播视频",
+      "intro": "播放m3u8直播视频",
+      "goRouter": "/m3u8Player",
+      "consult": [
+        {
+          "name": "vue-video-player",
+          "link": "https://www.npmjs.com/package/vue-video-player"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "vue-video-player插件封装及使用",
+      "intro": "播放m3u8直播视频",
+      "goRouter": "/m3u8VideoPlayer",
+      "consult": [
+        {
+          "name": "vue-video-player",
+          "link": "https://www.npmjs.com/package/vue-video-player"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "mqtt连接和收发消息",
+      "intro": "mqtt连接和收发消息",
+      "goRouter": "/mqttUse",
+      "consult": [
+        {
+          "name": "mqtt连接在线测试工具",
+          "link": "http://mqtt-client.emqx.com/#/help"
+        },
+        {
+          "name": "mqtt",
+          "link": "https://www.nginx-cn.net/resources/glossary/mqtt/?utm_medium=cpc&utm_source=baidu&utm_campaign=apcj_china-nx_ssap_ngx&bd_vid=11321083354907575576/"
+        }
+      ],
+      "pic": "donePic"
     }
   ]
 }
