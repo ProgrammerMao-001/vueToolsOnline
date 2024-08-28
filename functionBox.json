@@ -65,6 +65,53 @@
       "pic": "donePic"
     },
     {
+      "text": "leaflet地图实现图层绘制操作",
+      "intro": "leaflet地图实现图层绘制操作",
+      "goRouter": "/leafletDrawing",
+      "consult": [
+        {
+          "name": "leafletJs",
+          "link": "https://leafletjs.cn/"
+        },{
+          "name": "leafletJs文档",
+          "link": "https://leafletjs.cn/reference.html"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "leaflet实现地图打点与回显",
+      "intro": "leaflet地图弹窗实现打点与回显",
+      "goRouter": "/leafletMapMakePoint",
+      "consult": [
+        {
+          "name": "leafletjs",
+          "link": "https://leafletjs.cn/"
+        },
+        {
+          "name": "百度地图",
+          "link": "https://lbsyun.baidu.com/"
+        }
+      ],
+      "pic": "editPic"
+    },
+    {
+      "text": "leaflet热力图",
+      "intro": "leaflet热力图",
+      "goRouter": "/leafletHeatMap",
+      "consult": [
+        {
+          "name": "heatmaps",
+          "link": "https://leafletjs.cn/plugins.html#heatmaps"
+        },
+        {
+          "name": "heatmap.js",
+          "link": "https://www.patrick-wied.at/static/heatmapjs/example-heatmap-leaflet.html"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
       "text": "VueBaiduMap",
       "intro": "Vue中使用VueBaiduMap",
       "goRouter": "/vueBaiduMap",
@@ -105,6 +152,18 @@
       "pic": "donePic"
     },
     {
+      "text": "uEditorPlus富文本",
+      "intro": "Vue使用富文本编辑器uEditorPlus",
+      "goRouter": "/uEditorPlus",
+      "consult": [
+        {
+          "name": "UEditorPlus 使用文档",
+          "link": "https://open-doc.modstart.com/ueditor-plus/"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
       "text": "el-tree使用",
       "intro": "el-tree单选且实现数据回显(弹窗可拖拽)",
       "goRouter": "/elTreeUse",
@@ -131,22 +190,6 @@
         }
       ],
       "pic": "donePic"
-    },
-    {
-      "text": "leaflet实现地图打点与回显",
-      "intro": "leaflet地图弹窗实现打点与回显",
-      "goRouter": "/leafletMapMakePoint",
-      "consult": [
-        {
-          "name": "leafletjs",
-          "link": "https://leafletjs.cn/"
-        },
-        {
-          "name": "百度地图",
-          "link": "https://lbsyun.baidu.com/"
-        }
-      ],
-      "pic": "editPic"
     },
     {
       "text": "Video播放Mp4视频",
@@ -308,6 +351,14 @@
       "pic": "donePic"
     },
     {
+      "text": "el-table和el-tag的使用1",
+      "intro": "左侧是表格右边是tag实现联动1",
+      "goRouter": "/tableAndTag1",
+      "consult": [
+      ],
+      "pic": "donePic"
+    },
+    {
       "text": "monaco-editor",
       "intro": "类似vscode的网页编辑器",
       "goRouter": "/monacoEditor",
@@ -436,7 +487,7 @@
           "link": "https://naver.github.io/egjs-flicking/docs"
         }
       ],
-      "pic": "donePic"
+      "pic": "editPic"
     },
     {
       "text": "播放m3u8直播视频",
@@ -476,6 +527,115 @@
           "link": "https://www.nginx-cn.net/resources/glossary/mqtt/?utm_medium=cpc&utm_source=baidu&utm_campaign=apcj_china-nx_ssap_ngx&bd_vid=11321083354907575576/"
         }
       ],
+      "pic": "donePic"
+    },
+    {
+      "text": "mqtt实现雷达消息展示",
+      "intro": "mqtt实现接收雷达消息并展示",
+      "goRouter": "/radarShow",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "海康视频播放插件使用",
+      "intro": "海康视频播放插件使用",
+      "goRouter": "/hkTools",
+      "consult": [
+        {
+          "name": "海康开放平台",
+          "link": "https://open.hikvision.com/docs/docId?productId=5c67f1e2f05948198c909700&version=%2Ff95e951cefc54578b523d1738f65f0a1&tagPath=%E5%8D%8F%E8%AE%AE%E6%A6%82%E8%BF%B0-%E6%8E%A5%E5%8F%A3-%E8%B0%83%E7%94%A8%E8%AE%A4%E8%AF%81#da3d175f"
+        },
+        {
+          "name": "视频播放插件下载",
+          "link": "https://open.hikvision.com/download/5c67f1e2f05948198c909700?type=20"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "404",
+      "intro": "404",
+      "goRouter": "/404",
+      "consult": [
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "401",
+      "intro": "401",
+      "goRouter": "/401",
+      "consult": [
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "SVG组件",
+      "intro": "Vue中使用svg",
+      "goRouter": "/svgUse",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "扫码登录通用页面的封装",
+      "intro": "利用iframe嵌套实现扫码登录通用页面",
+      "goRouter": "/scanCode",
+      "consult": [
+        {
+          "name": "浙政钉在线链接",
+          "link": "https://login-pro.ding.zj.gov.cn/qrlogin/webAppLogin.htm?APP_NAME=lszhDirectMobile_dingoa&protocolKey=9b16b83f-11c3-452a-a0c0-3be366bf3df6&protocol=oauth2&BACK_URL=https://lsjtj.linkcld.com:8008/tlxx-modules-system/system/login/dingTalkAuthCallback&embedMode=true&scope=get_user_info&state="
+        },
+        {
+          "name": "专有钉钉开放平台",
+          "link": "https://openplatform-portal.dg-work.cn/portal/#/helpdoc?apiType=DEV_GUIDE&docKey=3355049"
+        },
+        {
+          "name": "广播",
+          "link": "https://developer.mozilla.org/zh-CN/docs/Web/API/BroadcastChannel"
+        }
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "iframeNesting插件的使用",
+      "intro": "利用iframe嵌套实现扫码登录通用页面",
+      "goRouter": "/iframeNestingUse",
+      "consult": [
+      ],
+      "pic": "donePic"
+    },
+    {
+      "text": "时间选择器",
+      "intro": "时间选择器组件",
+      "goRouter": "/datePicker",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "水印",
+      "intro": "水印",
+      "goRouter": "/watermark",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "显示隐藏动画",
+      "intro": "显示隐藏动画",
+      "goRouter": "/displayFrame",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "五分钟一个值聚合成一个小时",
+      "intro": "echarts折线图展示",
+      "goRouter": "/aggregatedEcharts",
+      "consult": [],
+      "pic": "donePic"
+    },
+    {
+      "text": "大屏模板 - leaflet",
+      "intro": "中间是地图 左右两侧是图表",
+      "goRouter": "/cockpitTemplate",
+      "consult": [],
       "pic": "donePic"
     }
   ]

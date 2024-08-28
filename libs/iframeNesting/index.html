@@ -1,0 +1,45 @@
+<!--
+ * @Description: 动态iframe 页面
+ * @Author: mhf
+ * @Date: 2024-06-24 18:27:54
+ * @params: iframeSrc：iframe地址，title：窗口标题
+ * @demo: window.open(`/libs/link.html?iframeSrc=${encodeURIComponent(链接地址)}&title=${encodeURIComponent(页面标题)}`)
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="./index.js" async></script>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+<iframe id="dynamicIframe" frameborder="0" width="100%" height="350"></iframe>
+
+<script type="text/javascript">
+  function getDecodedParameter(name) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return decodeURIComponent(urlParams.get(name) || '');
+  }
+
+  const iframeSrc = getDecodedParameter('iframeSrc') || '';
+  const dynamicTitle = getDecodedParameter('title') || '扫码授权';
+
+  document.getElementById('dynamicIframe').src = iframeSrc;
+  document.title = dynamicTitle;
+
+  /* 浙政钉处理扫码结果 */
+  window.addEventListener('message', function (event) {
+    if (event.data && event.data.code) {
+      // console.log(event.data.code, "event")
+      const msgBroadcast = new Broadcast()
+      msgBroadcast.sendMessage("浙政钉", event.data.code)
+      window.removeEventListener('message', arguments.callee)
+      window.close();
+    }
+  });
+  /* todo 微信或其他的处理扫码结果后面完善 */
+</script>
+</body>
+</html>
+
+
